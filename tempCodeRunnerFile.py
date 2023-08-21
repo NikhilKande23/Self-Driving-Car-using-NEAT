@@ -1,0 +1,1 @@
+print(neat.StatisticsReporter.stat)
